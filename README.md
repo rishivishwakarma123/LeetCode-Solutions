@@ -18,6 +18,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -30,5 +31,6 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
