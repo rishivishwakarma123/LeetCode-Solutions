@@ -17,6 +17,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -46,4 +48,8 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
