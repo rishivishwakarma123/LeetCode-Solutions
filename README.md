@@ -7,6 +7,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -43,6 +45,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -52,4 +55,12 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
