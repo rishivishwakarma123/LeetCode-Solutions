@@ -7,6 +7,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -66,4 +67,12 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
