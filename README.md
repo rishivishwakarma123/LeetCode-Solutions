@@ -17,11 +17,13 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0707-design-linked-list) |
@@ -40,6 +42,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
