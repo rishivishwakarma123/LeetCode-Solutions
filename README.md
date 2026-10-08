@@ -16,6 +16,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | ------- |
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0707-design-linked-list) |
@@ -35,6 +37,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -86,4 +89,8 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
