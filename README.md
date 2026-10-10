@@ -85,6 +85,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +94,28 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
