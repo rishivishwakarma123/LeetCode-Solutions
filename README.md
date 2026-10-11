@@ -10,6 +10,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
@@ -57,6 +59,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
