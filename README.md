@@ -42,6 +42,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -93,6 +94,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0125-valid-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
