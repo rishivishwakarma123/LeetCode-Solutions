@@ -14,7 +14,17 @@ class Solution {
 
             k++;
         }
+        for(int p = 0; p < nums1.length; p++){
+            for(int q = 0;q < nums1.length - p - 1; q++){
 
-        Arrays.sort(nums1);
+                if(nums1[q] > nums1[q+1]){
+                    int temp = nums1[q];
+                    nums1[q] = nums1[q+1];
+                    nums1[q+1] = temp;
+                }
+            }
+        }
+
+        // Arrays.sort(nums1);
     }
 }
