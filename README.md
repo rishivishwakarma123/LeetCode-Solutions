@@ -10,6 +10,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -43,6 +44,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0088-merge-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -88,6 +90,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
