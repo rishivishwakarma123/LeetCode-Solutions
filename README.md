@@ -8,6 +8,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | ------- |
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -65,6 +67,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
