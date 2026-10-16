@@ -1,54 +1,46 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+    public void twoSumHelper(int f, int[] nums, List<List<Integer>> res){
+        int i = f+1;
+        int j = nums.length -1;
         
-        // Step 1: Sort the array
-        Arrays.sort(nums);
-        
-        // Step 2: Iterate through the array
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Since array is sorted, if the first number is > 0, sum cannot be 0
-            if (nums[i] > 0) {
-                break;
-            }
-            
-            // Skip duplicate elements for i to avoid duplicate triplets
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
-            
-            // Step 3: Two pointers
-            int left = i + 1;
-            int right = nums.length - 1;
-            
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-                
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    
-                    // Skip duplicates for left and right pointers
-                    while (left < right && nums[left] == nums[left + 1]) {
-                        left++;
-                    }
-                    while (left < right && nums[right] == nums[right - 1]) {
-                        right--;
-                    }
-                    
-                    left++;
-                    right--;
-                } else if (sum < 0) {
-                    left++;
-                } else {
-                    right--;
+        while(i<j){
+            int sum = nums[f] + nums[i] + nums[j];
+
+             if(sum>0){
+                j = j-1;
+
+             }else if(sum < 0){
+                i = i+1;
+             }else{
+                res.add(Arrays.asList(nums[f], nums[i], nums[j]));
+                i = i +1;
+                j = j-1;
+
+                while(i < j && nums[i] == nums[i-1]){
+                    i = i+1;
                 }
+                while(i < j && nums[j] == nums[j+1]){
+                    j = j-1;
+                }
+             }
+        }
+    }
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> res = new ArrayList<>();
+
+        for(int f = 0; f<nums.length; f= f+1){
+            if(nums[f] > 0){
+                break;
+                
+            }
+            if(f == 0 || nums[f] != nums[f -1]){
+                twoSumHelper(f,nums,res);
             }
         }
         
-        return result;
+        
+        return res;
     }
 }
