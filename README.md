@@ -22,12 +22,14 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3731-find-missing-elements](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
@@ -50,6 +52,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -122,6 +125,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Rolling Hash
 |  |
 | ------- |
