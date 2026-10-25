@@ -44,6 +44,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0680-valid-palindrome-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +72,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
