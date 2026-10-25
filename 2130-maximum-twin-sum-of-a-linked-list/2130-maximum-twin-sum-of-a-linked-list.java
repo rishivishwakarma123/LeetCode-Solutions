@@ -9,26 +9,54 @@
  * }
  */
 class Solution {
+
+    // Separate helper function to reverse any linked list
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode current = head;
+        
+        while (current != null) {
+            ListNode nextTemp = current.next;
+            current.next = prev;
+            prev = current;
+            current = nextTemp;
+        }
+        
+        return prev;
+    }
+
     public int pairSum(ListNode head) {
 
-        List<Integer> list = new ArrayList<>();
-        //T.C. O(n), S.C. O(n)
-        while(head != null){
-            list.add(head.val);
-            head = head.next;
-        } 
-        int i = 0,
-            j = list.size() -1;
+        //find middle node using fast and slow
+        //reverse slow node
+        //sum calculate
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+       //middle node found
+
+       //reverse linked list using slow
+       ListNode n1 = reverseList(slow);
+       ListNode n2 = head;
+
+       //calculate sum
         int max = Integer.MIN_VALUE;
-        while(i < j){
-            int sum = list.get(i) + list.get(j);
-           
+
+        while(n1 != null && n2 != null){
+            int sum = n1.val + n2.val;
+
             if(sum > max){
                 max = sum;
             }
-             i++;
-            j--;
+            n1 = n1.next;
+            n2 = n2.next;
         }
+
         return max;
     }
 }
