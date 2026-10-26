@@ -71,6 +71,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -120,6 +121,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -174,4 +176,8 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
