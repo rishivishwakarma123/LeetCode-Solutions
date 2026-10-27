@@ -30,6 +30,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
