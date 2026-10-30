@@ -23,6 +23,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | ------- |
 | [0001-two-sum](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -34,6 +35,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0002-add-two-numbers](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
@@ -125,6 +127,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
