@@ -37,6 +37,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0009-palindrome-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
@@ -88,6 +89,7 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 | [0021-merge-two-sorted-lists](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -190,4 +192,12 @@ Data Structures and Algorithms practice repository containing topic-wise LeetCod
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rishivishwakarma123/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
